@@ -7,7 +7,7 @@
 ❃ Bachelor in Information Technology at Victoria University, Australia<br/>
 ❃ Diploma of Travel and Tourism<br/>
 ❃ Member of the Women in Tech VU Club [LinkTree](https://linktr.ee/womenintechvu)<br/>
-❃ Feel free to connect with me on [LinkedIn](https://au.linkedin.com/in/shaziya-b-7126251a3)<br/>
+❃ Feel free to connect with me on [LinkedIn](https://au.linkedin.com/in/shaziyab)<br/>
 
 <!--Markdown Badges: https://github.com/Ileriayo/markdown-badges-->
 # Languages and Tools
