@@ -1,5 +1,5 @@
 <!--Introduction-->
-## Hello, I'm Shaziya!
+# Hello, I'm Shaziya!
 
 ![LoadingScreen-1920x800](https://github.com/JohanneChristiana/JohanneChristiana/assets/113961547/564a6a83-ad7e-4d7d-86fd-ef487f1ab771)
 
