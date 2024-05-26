@@ -7,8 +7,7 @@
 ❃ Bachelor in Information Technology at Victoria University, Australia<br/>
 ❃ Diploma of Travel and Tourism<br/>
 ❃ Member of the Women in Tech VU Club [LinkTree](https://linktr.ee/womenintechvu)<br/>
-❃ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/johannemenez/)<br/>
-❃ Currently learning more about Java and JavaScript<br/>
+❃ Feel free to connect with me on [LinkedIn]((https://au.linkedin.com/in/shaziya-b-7126251a3))<br/>
 
 <!--Markdown Badges: https://github.com/Ileriayo/markdown-badges-->
 # Languages and Tools
@@ -23,7 +22,8 @@
 
 <!--Linking examples of my work-->
 # Examples of Work
-Wix Website Uni Project - [Click Here](https://sazialiyun.wixsite.com/my-site-1))<br/> 
+Wix Website Uni Project - [Click Here]((https://sazialiyun.wixsite.com/my-site-1))<br/> 
+
 Java - Flight Information System<br/>
 HTML/CSS - University Work: [Click Here](https://johannechristiana.github.io/)<br/>
 Google Sites - Assignment Project at Victoria University: [Click Here](https://sites.google.com/view/jamunlimited/home)<br/>
