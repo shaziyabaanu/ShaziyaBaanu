@@ -22,7 +22,7 @@
 
 <!--Linking examples of my work-->
 # Examples of Work
-Wix Website Uni Project - [Click Here]((https://sazialiyun.wixsite.com/my-site-1))<br/> 
+Wix Website Uni Project - [Click Here](https://sazialiyun.wixsite.com/my-site-1)<br/> 
 
 Java - Flight Information System<br/>
 HTML/CSS - University Work: [Click Here](https://johannechristiana.github.io/)<br/>
