@@ -5,7 +5,7 @@
 
 ❃ Sharing my journey and learnings in Tech<br/>
 ❃ Bachelor in Information Technology at Victoria University, Australia<br/>
-❃ Diploma of Travel and Tourism<br/>
+❃ Diploma of Travel and Tourism at Victoria University, Australia<br/>
 ❃ Member of the Women in Tech VU Club [LinkTree](https://linktr.ee/womenintechvu)<br/>
 ❃ Feel free to connect with me on [LinkedIn](https://au.linkedin.com/in/shaziyab)<br/>
 
